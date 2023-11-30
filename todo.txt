@@ -1,0 +1,12 @@
+improve on documentation: 
+- add title page, author, date, index, version management? etc.
+- 
+
+create and add intermediate or advanced workshop
+- create plan for workshop 
+- create image for workshop (.bmp files for pcb)
+- put logo/name in workshop for student and author
+
+update github page with workshop:
+- add to readme/main page
+- add pictures?
