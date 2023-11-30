@@ -10,3 +10,7 @@ create and add intermediate or advanced workshop
 update github page with workshop:
 - add to readme/main page
 - add pictures?
+
+other:
+- create PowerPoint presentation for workshops
+- add KiCad vs other in PowerPoint (why KiCad?)
