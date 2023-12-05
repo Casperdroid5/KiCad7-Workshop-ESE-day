@@ -1,11 +1,9 @@
 improve on documentation: 
-- add title page, author, date, index, version management? etc.
 - 
 
-create and add intermediate or advanced workshop
+create and add advanced workshop
 - create plan for workshop 
-- create image for workshop (.bmp files for pcb)
-- put logo/name in workshop for student and author
+
 
 update github page with workshop:
 - add to readme/main page
@@ -14,3 +12,31 @@ update github page with workshop:
 other:
 - create PowerPoint presentation for workshops
 - add KiCad vs other in PowerPoint (why KiCad?)
+
+
+
+Advanced workshop contents:
+
+in schematic editor:
+- Add your name to schematic paper
+- make hierarchial sheets
+- use netlabels
+- use text to write usefull information
+- import components from other librarys
+- 
+
+In pcb Editor:
+- round of corners of pcb
+- create a hole into the pcb (keychain)
+- add .bmp logo file to pcb silkscreen
+- add text to PCB silkscreen (name, date, version, projectname, designed by...)
+- add usefull symbols to pcb silkscreen (+ - symbols etc)
+- add (missing) 3d models for 3d viewer
+
+Extra:
+- Use Snapeda/SamacSys (https://nl.mouser.com/electronic-cad-symbols-models/) 
+- KiCad downloadable add-ons
+
+
+
+
