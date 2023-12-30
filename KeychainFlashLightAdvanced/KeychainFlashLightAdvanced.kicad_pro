@@ -392,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "KeychainFlashLight.kicad_pro",
+    "filename": "KeychainFlashLightAdvanced.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -471,6 +471,10 @@
     [
       "30398b8a-8fed-4ca8-b3cc-b1f61d914000",
       ""
+    ],
+    [
+      "10723c4f-449e-4ad5-9164-0f599a2c215f",
+      "flashlightmodule"
     ]
   ],
   "text_variables": {}
