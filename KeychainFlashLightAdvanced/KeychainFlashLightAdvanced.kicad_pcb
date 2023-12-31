@@ -204,10 +204,10 @@
       (net 1 "Net-(BT1-+)") (pinfunction "+") (pintype "passive") (tstamp cc70edec-a479-43a7-b265-9f0ed0e190d7))
     (pad "2" smd circle (at 0 0 270) (size 17.8 17.8) (layers "F.Cu" "F.Mask")
       (net 2 "+3.3V") (pinfunction "-") (pintype "passive") (tstamp 9ad1c977-848b-40e7-a2bb-51ba870dd99d))
-    (model "${KICAD6_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3002_1x2032.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_Keystone_3034_1x20mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 180))
     )
   )
 
@@ -277,6 +277,11 @@
       (net 5 "Net-(R1-Pad2)") (pintype "passive") (solder_mask_margin 0.102) (tstamp 46cd10f9-d84b-4546-9411-5198c05c2afd))
     (pad "4" thru_hole circle (at 3.25 2.25 270) (size 1.498 1.498) (drill 0.99) (layers "*.Cu" "*.Mask")
       (net 5 "Net-(R1-Pad2)") (pintype "passive") (solder_mask_margin 0.102) (tstamp 083dc1c9-661b-41b8-90d7-cce57826112d))
+    (model "${KIPRJMOD}/FSM8JH--3DModel-STEP-56544.STEP"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 -90))
+    )
   )
 
   (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
@@ -395,7 +400,7 @@
     (pad "2" thru_hole circle (at 2.54 0 270) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 3 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp 86cd1ce6-3083-499f-9126-324c5c1ae05a))
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm_Clear.wrl"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 0 -3))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
