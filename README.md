@@ -1,8 +1,8 @@
-# KiCad Workshop
+# KiCad Workshops
 
 ## Introduction Workshop:
 
-Welcome to the KiCad Workshop! This workshop is designed to provide you with the fundamental steps to kickstart your journey into printed circuit board (PCB) design using KiCad. Whether you're a beginner or have some experience, this workshop will equip you with the foundational knowledge and practical skills needed to design your own PCBs effectively.
+Welcome to the KiCad introduction Workshop! This workshop is designed to provide you with the fundamental steps to kickstart your journey into printed circuit board (PCB) design using KiCad. Whether you're a beginner or have some experience, this workshop will equip you with the foundational knowledge and practical skills needed to design your own PCBs effectively.
 
 ### Workshop Topics:
 
