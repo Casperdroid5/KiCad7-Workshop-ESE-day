@@ -1,4 +1,4 @@
-# KiCad Workshop Readme
+# KiCad Workshop
 
 ## Introduction Workshop:
 
