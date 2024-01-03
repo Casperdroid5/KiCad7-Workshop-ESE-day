@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_Keystone_3002_1x2032,1,Battery_Cell,
+D1,LED_D5.0mm_Clear,1,LED,
+R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,R,
+S1,SW_FSM8JH,1,FSM8JH,
