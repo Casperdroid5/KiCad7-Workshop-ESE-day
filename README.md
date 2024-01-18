@@ -77,7 +77,7 @@ Ready to elevate your KiCad proficiency? The Advanced Workshop takes you deeper 
 ### Extra Enhancements:
 
 1. **Library Integration:**
-   - Explore Snapeda/SamacSys integration for a broader range of electronic CAD symbols and models.
+   - Explore parts/library integration for a broader range of electronic CAD symbols and models.
 
 2. **KiCad Add-ons:**
    - Discover and leverage downloadable add-ons to enhance your KiCad experience according to your project requirements.
