@@ -1,2 +1,0 @@
-Library import mag niet (read only)
-Error schematic advanced workshop (loop niet volledig voor netlabels
