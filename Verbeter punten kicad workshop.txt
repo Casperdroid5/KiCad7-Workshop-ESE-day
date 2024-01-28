@@ -1,7 +1,2 @@
-Switch 275 is niet hetzelfde bij de mensen als bij mij.  Dus naam switch erbij zetten ipv nummer 
-Grid allignen is een uitdaging 
 Library import mag niet (read only)
-Escape klikken na A (component selector)
-Update DRC icon (mensen vinden m niet)
-Type error: DRC ->  ERC
 Error schematic advanced workshop (loop niet volledig voor netlabels
